@@ -1,4 +1,4 @@
-# Beginner Friendly Python Programs
+# Beginner Friendly Python-Bash Programs
 
 Simple Python programs made for beginners to understand easily.
 
